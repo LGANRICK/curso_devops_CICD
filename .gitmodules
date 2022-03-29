@@ -1,0 +1,3 @@
+[submodule "angularWorkSpace"]
+	path = angularWorkSpace
+	url = /home/ricardo/Documentos/CURSO_DOCKER/git_repositorio/practice_CICD/angularWorkSpace
